@@ -2,7 +2,7 @@
 
 > *"En un mundo post-apocalíptico, los gatos han caído bajo una misteriosa enfermedad. Armado solo con pistolas de agua y la cura, debes salvarlos antes de que sea demasiado tarde."*
 
-![Unity](https://img.shields.io/badge/Unity-2022.3%20LTS-black?logo=unity)
+![Unity](https://img.shields.io/badge/Unity-6000.2.9f1%20LTS-black?logo=unity)
 ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-yellow)
 ![Deadline](https://img.shields.io/badge/Deadline-6%20Nov%202025-red)
 
@@ -19,7 +19,7 @@ Tu misión no es destruir, sino **salvar**. Cada gato que mojes con la cura volv
 git clone https://github.com/TU-USUARIO/the-walking-cats.git
 
 # Abrir con Unity Hub
-# Versión requerida: Unity 2022.3 LTS o superior
+# Versión requerida: Unity 6000.2.9f1 LTS o superior
 ```
 
 ### Para colaboradores:
