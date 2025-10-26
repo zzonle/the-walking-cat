@@ -1,0 +1,4 @@
+repository "The walking cat/The walking cat@4674121278216@cloud"
+  path "/"
+    br "/main"
+    co "/main"
