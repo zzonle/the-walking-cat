@@ -1,6 +1,6 @@
 # 🐱💉 The Walking Cats
 
-> *"En un mundo post-apocalíptico, los gatos han caído bajo una misteriosa enfermedad. Armado solo con pistolas de agua y la cura, debes salvarlos antes de que sea demasiado tarde."*
+> _"En un mundo post-apocalíptico, los gatos han caído bajo una misteriosa enfermedad. Armado solo con pistolas de agua y la cura, debes salvarlos antes de que sea demasiado tarde."_
 
 ![Unity](https://img.shields.io/badge/Unity-6000.2.9f1%20LTS-black?logo=unity)
 ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-yellow)
@@ -8,7 +8,7 @@
 
 ## 🌍 La Historia
 
-El mundo como lo conocíamos ha terminado. Una extraña enfermedad convirtió a los adorables gatos en criaturas agresivas que ahora dominan las calles. Pero tú eres la última esperanza: un científico valiente equipado con **pistolas de agua** cargadas con la cura. 
+El mundo como lo conocíamos ha terminado. Una extraña enfermedad convirtió a los adorables gatos en criaturas agresivas que ahora dominan las calles. Pero tú eres la última esperanza: un científico valiente equipado con **pistolas de agua** cargadas con la cura.
 
 Tu misión no es destruir, sino **salvar**. Cada gato que mojes con la cura volverá a la normalidad. ¿Podrás restaurar la paz en este mundo felino?
 
@@ -16,13 +16,14 @@ Tu misión no es destruir, sino **salvar**. Cada gato que mojes con la cura volv
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU-USUARIO/the-walking-cats.git
+git clone https://github.com/zzonle/the-walking-cat.git
 
 # Abrir con Unity Hub
 # Versión requerida: Unity 6000.2.9f1 LTS o superior
 ```
 
 ### Para colaboradores:
+
 1. Acepta la invitación del repositorio en tu email
 2. Clona el repositorio usando el comando de arriba
 3. Abre Unity Hub y agrega el proyecto
@@ -31,6 +32,7 @@ git clone https://github.com/TU-USUARIO/the-walking-cats.git
 ## 📋 Workflow de Git
 
 ### Para hacer cambios:
+
 ```bash
 # Antes de empezar a trabajar
 git pull origin main
@@ -42,6 +44,7 @@ git push origin main
 ```
 
 ### Buenas prácticas:
+
 - ✅ Haz `pull` antes de empezar a trabajar
 - ✅ Commits frecuentes con mensajes descriptivos
 - ✅ Comunica cambios importantes al equipo
@@ -65,6 +68,6 @@ the-walking-cats/
 
 **Estado actual:** 🚧 En desarrollo activo - Fase 1  
 **Próximo hito:** 6 de Noviembre, 2025  
-**Última actualización:** 25 de Octubre, 2025
+**Última actualización:** 27 de Octubre, 2025
 
-*"No todos los héroes usan capas. Algunos usan pistolas de agua."* 💧🐱
+_"No todos los héroes usan capas. Algunos usan pistolas de agua."_ 💧🐱
