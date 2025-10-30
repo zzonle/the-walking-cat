@@ -196,11 +196,6 @@ the-walking-cat/
   - Interacciones con objetos
   - Linterna
 
-## 📄 Documentación del Proyecto
-
-- [Ficha de Diseño](./docs/Ficha_Diseno_Videojuego_Equipo_TheWalkingCat.pdf)
-- [Guion del Videojuego](./docs/Plantilla_Guion_Videojuego_TheWalkingCat.pdf)
-
 ---
 
 **Equipo:** Paw-ject Studio  
