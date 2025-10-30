@@ -72,7 +72,7 @@ El juego consta de **5 actos principales**, cada uno dedicado a encontrar un ing
 |---------|---------------|
 | **Carla Andrea Barría Díaz** | Coordinadora & Game Designer |
 | **Bastian Felipe Ojeda Maldonado** | Programador & DevOps |
-| **Nicolas Aaron Bahamonde Bustamante** | Programador de Física |
+| **Nicolas Aaron Bahamonde Bustamante** | Programador & DevOps |
 | **Kervin Jose Urdaneta Gonzales** | Artista 3D & Asset Manager |
 | **Yordan Yoer Andrade Godoy** | Diseñador de Sonido/UI |
 
