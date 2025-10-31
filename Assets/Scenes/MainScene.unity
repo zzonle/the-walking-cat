@@ -374,10 +374,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51f65d4377843057e9f228833cc20bea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
-  velocidadCaminar: 5
-  velocidadCorrer: 8
+  velocidadCaminar: 2
+  velocidadCorrer: 6
   suavizadoMovimiento: 10
-  fuerzaSalto: 5
+  fuerzaSalto: 2
   gravedad: -9.81
   checkSuelo: {fileID: 0}
   radioCheckSuelo: 0.4
@@ -386,6 +386,7 @@ MonoBehaviour:
     m_Bits: 0
   teclaCorrer: 304
   teclaSaltar: 32
+  camaraController: {fileID: 1592267468}
 --- !u!143 &1080489726
 CharacterController:
   m_ObjectHideFlags: 0
@@ -518,7 +519,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 4, y: 1, z: 4}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -758,8 +759,11 @@ MonoBehaviour:
   alturaOjos: 0.5
   brazosContainer: {fileID: 1857825890}
   posicionBrazos: {x: 0.3, y: -0.3, z: 0.5}
-  balanceoIntensidad: 0.02
-  balanceoVelocidad: 10
+  balanceoCaminarIntensidad: 0.03
+  balanceoCaminarVelocidad: 10
+  balanceoCorrerIntensidad: 0.06
+  balanceoCorrerVelocidad: 15
+  alturaRetroceso: -0.15
   Player: {fileID: 1080489724}
 --- !u!4 &1635124305 stripped
 Transform:
